@@ -1,0 +1,6 @@
+paddleocr
+paddlepaddle
+gspread
+google-auth
+opencv-python
+regex
